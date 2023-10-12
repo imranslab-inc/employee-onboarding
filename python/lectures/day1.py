@@ -53,7 +53,7 @@ name1 = "sushmita"
 
 """
 Assignment:
-1. print your basci biodata using variables
+1. print your basic biodata using variables
 2. use both single and multi line string formatting for printing your biodata
 3. use day1.py in assignment folder for the assignment
 """
