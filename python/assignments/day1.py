@@ -11,7 +11,7 @@ print (f"My age {age3}")
 print (f"I am joining {company_name2}")
 
 
-
+# multi line 
 print (f"""
 Hello! 
 I am {name1}
@@ -36,7 +36,7 @@ maritial_status="married"
 languages_known="begali & English"
 company_name= "imranslab"
 
-#single line fuction call
+#single line printing message.
 
 print (f"Hello! I am {name}")
 print(f"My contact number {contact_information}")
@@ -48,7 +48,7 @@ print(f"Languages known {languages_known}")
 print(f"I joining {company_name}")
 
 
-#multi line function call
+#multi line printing messages.
 
 print(f"""
 Hello!

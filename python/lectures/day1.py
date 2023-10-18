@@ -1,3 +1,5 @@
+# 08-Oct-2023
+
 # basics of python
 # dynamically typed programming language unlike C/C++/Java are statically typed programming language
 
@@ -57,17 +59,3 @@ Assignment:
 2. use both single and multi line string formatting for printing your biodata
 3. use day1.py in assignment folder for the assignment
 """
-
-
-
-
-
-# 4. data types
-
-# operators
-
-# loops
-
-# functions
-
-# classes
